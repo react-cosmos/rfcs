@@ -1,5 +1,7 @@
 # React Cosmos RFCs
 
+> Join `#ideas` on [Slack](https://join-react-cosmos.now.sh/) for bouncing around ideas without formality.
+
 Many changes, including bug fixes and documentation improvements can be
 implemented and reviewed via the normal GitHub pull request workflow.
 
