@@ -1,6 +1,6 @@
 # React Cosmos RFCs
 
-> Join `#ideas` on [Slack](https://react-cosmos.slack.com/join/shared_invite/zt-g9rsalqq-clCoV7DWttVvzO5FAAmVAw) for bouncing around ideas without formality.
+> Join [Discord](https://discord.gg/3X95VgfnW5) for bouncing around ideas without formality.
 
 Many changes, including bug fixes and documentation improvements can be
 implemented and reviewed via the normal GitHub pull request workflow.
