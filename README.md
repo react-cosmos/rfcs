@@ -1,6 +1,6 @@
 # React Cosmos RFCs
 
-> Join [Discord](https://discord.gg/3X95VgfnW5) for bouncing around ideas without formality.
+> **Warning** Deprecated this repo in favor in favor of [GitHub Discussions](https://github.com/react-cosmos/react-cosmos/discussions).
 
 Many changes, including bug fixes and documentation improvements can be
 implemented and reviewed via the normal GitHub pull request workflow.
